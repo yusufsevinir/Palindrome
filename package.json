@@ -1,0 +1,19 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "Find 3 longest palindrome inside the given string",
+  "main": "palindrome.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "yusuf sevinir",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
+}
